@@ -1,0 +1,1 @@
+const rootStore = combine;
